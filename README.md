@@ -1,6 +1,12 @@
 # Hackintosh on Legion 15IRX10 (Sequoia)
 A pre-built EFI file for **Legion 15IRX10**
 
+## Summary Device Specs
+- i7-13650HX
+- RTX 5050m
+- 16GB DDR5 SODIMM
+- 512GB NVMe
+
 ## Status
 Device extracted SSDT does not work, yoinked other simmilar device's EFI apperently worked.
 | device | Status | Notes |

@@ -1,5 +1,6 @@
 # Hackintosh on Legion 15IRX10 (Sequoia)
 A pre-built EFI file for **Legion 15IRX10**
+
 Can be used as reference for simmilar devices for troubleshooting if needed.
 
 ## Summary Device Specs

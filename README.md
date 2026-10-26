@@ -25,7 +25,7 @@ Device extracted SSDT does not work, yoinked other simmilar device's EFI apperen
 | `Bluetooth` | ✅ ||
 
 ## Device Quirks
-- DisableIoMapper must set to `true`, otherwise it will panic.
+- DisableIoMapper must set to `false`, otherwise it will panic.
 - CpuTscSync is required due to prevent non-monotonic-time panic.
 
 ## Notes
